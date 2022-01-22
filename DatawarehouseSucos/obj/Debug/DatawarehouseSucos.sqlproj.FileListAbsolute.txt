@@ -1,0 +1,5 @@
+C:\Users\leand\Desktop\Cantarini\Gabriela\TI\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+C:\Users\leand\Desktop\Cantarini\Gabriela\TI\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+C:\Users\leand\Desktop\Cantarini\Gabriela\TI\Projetos\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+C:\Users\leand\Desktop\Cantarini\Gabriela\TI\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+C:\Users\leand\Desktop\Cantarini\Gabriela\TI\Projetos\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
